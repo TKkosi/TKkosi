@@ -1,4 +1,4 @@
-# TKkosi-TKkosi
+# TKkosi
 
 # 👋 Hi, I'm Kosisochukwu Ekwuno  
 
