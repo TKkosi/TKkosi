@@ -45,7 +45,7 @@ My personal portfolio built with React.js & TailwindCSS, deployed on Vercel.
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ekwuno-kosi-4999a72a8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kosisochukwuekwuno)  
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:kosisochukwu13@yahoo.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TKkosi)  
 
